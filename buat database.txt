@@ -1,0 +1,5 @@
+1.buat database pegawai tarik dari data log (nama pegawai yang terdeteksi absen
+2.membedakan waktu pulang dan pagi absen pagi/pulang)
+3.membedakan sudah absenpagi dan malam(bila io=1 brarti hanya absen pagi 2 brarti absen pagi dan sore)
+4.membuatt sistem daftar tbl_pegawai yang wajib absen di mesin
+5.absen_log hanaya database tarikan dari mesin di relapion ke tbl_pegawai
